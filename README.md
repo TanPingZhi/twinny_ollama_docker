@@ -2,7 +2,9 @@
 
 This repo bundles Ollama (with your chosen model) and the Twinny VS Code extension into a single Docker image for offline use.
 
-The download of the extension in the internet environment may actually be useless lol
+The download of the extension in the internet environment may actually be useless lol.
+
+ALSO: DONT SHARE distributions, there are keys in them.
 
 ## Prerequisites
 
